@@ -1,6 +1,3 @@
-
-Made by krypt0n (pascal)
-
 A totally serious, mathematically advanced CLI tool to generate and debug DuckyScript payloads before your USB stick embarrasses you in public.
 
 Works on macOS, Linux, and Windows. Probably runs on an overpriced smart fridge if it has Python 3.
