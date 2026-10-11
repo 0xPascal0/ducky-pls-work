@@ -18,5 +18,5 @@ Because you forgot to put a `DELAY` after pressing the GUI key, your computer la
 ### Usage
 
 Run it directly:
-
+```bash
 python3 ducky_tool.py
